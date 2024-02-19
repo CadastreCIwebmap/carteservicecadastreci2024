@@ -1,0 +1,1 @@
+var json_CIFUSEAUX29N30N_4 = {"type":"FeatureCollection","name":"CIFUSEAUX29N30N_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","NOM":"LIMITE FUSEAUX 29N-30N"},"geometry":{"type":"LineString","coordinates":[[-6.0,10.19591089875019],[-6.0,4.97772288229738]]}}]}
